@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Anillo Dorado Clásico",
+    "descripcion": "Anillo dorado con acabado brillante y diseño elegante.",
+    "precio": 499.99,
+    "stock": 15,
+    "stock_minimo": 5,
+    "imagen_url": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+    "imagen_public_id": "productos/anillo-dorado-clasico",
+    "activo": true,
+    "categoria_id": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Collar Perla Elegance",
+    "descripcion": "Collar con perlas sintéticas y broche metálico.",
+    "precio": 699.5,
+    "stock": 10,
+    "stock_minimo": 3,
+    "imagen_url": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+    "imagen_public_id": "productos/collar-perla-elegance",
+    "activo": true,
+    "categoria_id": 2
+  },
+  {
+    "id": 3,
+    "nombre": "Pulsera Silver Shine",
+    "descripcion": "Pulsera plateada con detalles minimalistas.",
+    "precio": 350,
+    "stock": 8,
+    "stock_minimo": 2,
+    "imagen_url": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+    "imagen_public_id": "productos/pulsera-silver-shine",
+    "activo": true,
+    "categoria_id": 3
+  },
+  {
+    "id": 4,
+    "nombre": "Aretes Crystal Drop",
+    "descripcion": "Aretes largos con cristales decorativos.",
+    "precio": 420,
+    "stock": 12,
+    "stock_minimo": 4,
+    "imagen_url": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+    "imagen_public_id": "productos/aretes-crystal-drop",
+    "activo": true,
+    "categoria_id": 4
+  }
+]

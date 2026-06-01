@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Administrador General",
+    "correo": "admin@maisonco.com",
+    "password_hash": "12345",
+    "telefono": "4920000000",
+    "direccion": "Zacatecas, México",
+    "rol": "administrador"
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "correo": "maria@correo.com",
+    "password_hash": "12345",
+    "telefono": "4921111111",
+    "direccion": "Guadalupe, Zacatecas",
+    "rol": "cliente"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana Martínez",
+    "correo": "ana@correo.com",
+    "password_hash": "12345",
+    "telefono": "4922222222",
+    "direccion": "Fresnillo, Zacatecas",
+    "rol": "cliente"
+  }
+]

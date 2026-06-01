@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Anillos",
+    "descripcion": "Colección de anillos elegantes y modernos"
+  },
+  {
+    "id": 2,
+    "nombre": "Collares",
+    "descripcion": "Collares para diferentes estilos y ocasiones"
+  },
+  {
+    "id": 3,
+    "nombre": "Pulseras",
+    "descripcion": "Pulseras finas y sofisticadas"
+  },
+  {
+    "id": 4,
+    "nombre": "Aretes",
+    "descripcion": "Aretes clásicos y contemporáneos"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "producto_id": 3,
+    "stock_minimo": 2,
+    "activa": true
+  },
+  {
+    "id": 2,
+    "producto_id": 4,
+    "stock_minimo": 4,
+    "activa": false
+  }
+]

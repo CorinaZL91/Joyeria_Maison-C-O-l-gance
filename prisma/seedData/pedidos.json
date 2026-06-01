@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "usuario_id": 2,
+    "total": 999.49,
+    "metodo_pago": "tarjeta",
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "usuario_id": 3,
+    "total": 420,
+    "metodo_pago": "tienda",
+    "estado": "enviado"
+  }
+]
