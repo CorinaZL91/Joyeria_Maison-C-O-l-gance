@@ -10,7 +10,14 @@
     "dev": "concurrently -k -n TSC,SERVER \"npm:dev:tsc\" \"npm:dev:server\"",
     "dev:tsc": "tsc -w",
     "dev:server": "tsx watch --clear-screen=false src/index.ts",
-    "setup": "tsx prisma/setup.ts"
+    "setup": "tsx prisma/setup.ts",
+    "test": "jest --runInBand",
+    "test:coverage": "jest --coverage --runInBand",
+    "k6:smoke": "k6 run k6/smoke.js",
+    "k6:load": "k6 run k6/load.js",
+    "k6:stress": "k6 run k6/stress.js",
+    "k6:auth": "k6 run k6/authenticated-flow.js",
+    "k6:concurrency": "k6 run k6/concurrency-last-product.js"
   },
   "keywords": [],
   "author": "",
